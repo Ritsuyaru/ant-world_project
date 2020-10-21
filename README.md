@@ -1,2 +1,2 @@
-# undet_project
-project undetermined - test project
+# ant_project
+project ant_world
